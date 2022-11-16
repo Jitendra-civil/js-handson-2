@@ -1,0 +1,23 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+    h3{
+    background-color: aqua;
+    color: black;
+    font-weight: bold ;
+}
+.ques{
+    font-size: 18px;
+    color: indigo;
+
+}
+.ques1{
+    font-size: 18px;
+    color: rgb(213, 22, 22);
+}
+h1{
+    background-color: springgreen;
+    color: red;
+    text-align: center;
+}
